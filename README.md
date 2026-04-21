@@ -68,8 +68,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arne919&layout=compact" />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arne919&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arne919&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arne919&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arne919&layout=compact) -->
 
 <!--
 **Arne919/Arne919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

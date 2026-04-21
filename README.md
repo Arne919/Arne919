@@ -60,30 +60,7 @@
 
 
 <h3 align="center">📫 Contact 📫</h3>
-### Tools & DevOps  
-<div align="center">  
-
-<a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" />
-</a>  
-
-<a href="https://about.gitlab.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-</a>  
-
-<a href="https://www.notion.so/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/notion.svg" alt="Notion" height="50" />
-</a>  
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira.svg" alt="Jira" height="50" />
-</a>  
-
-<a href="https://www.figma.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</a>  
-
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yubin113&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arne919&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arne919&layout=compact)

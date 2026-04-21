@@ -60,14 +60,29 @@
 
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-<!--   <a href="https://velog.io/@oka1313"> -->
-<!--     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp -->
-<!--   </a>
-  <a href="reveryu96@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a> -->
+### Tools & DevOps  
+<div align="center">  
+
+<a href="https://github.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" />
+</a>  
+
+<a href="https://about.gitlab.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+</a>  
+
+<a href="https://www.notion.so/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/notion.svg" alt="Notion" height="50" />
+</a>  
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira.svg" alt="Jira" height="50" />
+</a>  
+
+<a href="https://www.figma.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+</a>  
+
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arne919&show_icons=true&theme=radical)

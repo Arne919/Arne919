@@ -3,7 +3,7 @@
 <div align="center">
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HyeKyeong%20Kang&fontSize=90" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Arne919&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HyeKyeong&fontSize=90" />
 </div>
 
 ## 💻 My Skill Set  
